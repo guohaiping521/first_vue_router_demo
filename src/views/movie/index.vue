@@ -10,7 +10,6 @@
       <p>垂直居中 </p>
     </div>
     <p class="gradual-text">渐变文本</p>
-   
   </div>
 </template>
 
