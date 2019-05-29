@@ -7,7 +7,7 @@
       <p>均匀分布子元素3</p>
     </div>
     <div class="vertical-centering">
-      <p>垂直居中</p>
+      <p>垂直居中 </p>
     </div>
     <p class="gradual-text">渐变文本</p>
    
