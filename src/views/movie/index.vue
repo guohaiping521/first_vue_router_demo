@@ -12,7 +12,6 @@
     <p class="gradual-text">渐变文本</p>
   </div>
 </template>
-
 <script>
 export default {};
 </script>
